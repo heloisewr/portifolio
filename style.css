@@ -9,5 +9,14 @@ h1{
 .titulo{
     color: palevioletred;
 text-align: center;
-border: none
+border: none;
+}
+
+button{
+    color: rgb(141, 16, 190);
+    font: size 50px; ;
+}
+
+.imagem-gato{
+    width: 400px;
 }
